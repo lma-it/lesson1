@@ -4,7 +4,7 @@
 int count = 1;
 
 while(count <= n){
-    Console.Write(count);
-    Console.Write(" ");
+    Console.Write(count + " ");
+    //Console.Write(" ");
     count++;
 }
